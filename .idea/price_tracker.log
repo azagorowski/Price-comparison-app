@@ -1,0 +1,52 @@
+2025-04-20 01:28:45,671 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:28:46,216 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:28:52,643 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:28:53,181 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:28:55,114 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:28:55,692 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:28:59,623 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:00,435 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:29:00,767 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:01,577 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:29:02,740 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:03,337 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:29:03,936 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:04,276 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:06,571 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:06,916 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:10,382 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:10,725 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:12,854 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:13,212 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:15,242 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:15,588 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:17,997 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:18,367 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:24,118 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:24,468 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:29,925 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:30,274 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:43,315 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:43,659 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:29:45,409 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:29:45,747 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:30:06,207 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:30:06,965 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:30:10,287 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:30:10,868 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:30:15,945 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:30:16,521 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:30:19,801 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:30:20,610 - INFO - API Status Update - CoinGecko: \u2713 Success
+2025-04-20 01:30:25,576 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:30:25,929 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:30:28,026 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:30:28,395 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:30:53,925 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:30:54,282 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:31:01,863 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:31:02,211 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:31:05,185 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:31:05,529 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
+2025-04-20 01:31:19,769 - INFO - API Status Update - NBP: \u2713 Success
+2025-04-20 01:31:20,106 - INFO - API Status Update - CoinGecko: \u2717 Failed: Status code: 429
