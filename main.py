@@ -23,8 +23,8 @@ logging.basicConfig(
 class PriceRatioApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Cryptocurrency to Gold Price Ratio")
-        self.root.geometry("1000x800")
+        self.root.title("BTC to Gold Price Ratio")
+        self.root.geometry("650x650")
 
         # Initialize variables
         self.days_to_show = tk.IntVar(value=7)
